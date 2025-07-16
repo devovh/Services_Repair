@@ -65,7 +65,7 @@
     {
         "Name":  "Audiosrv",
         "DisplayName":  "Windows Audio",
-        "Status":  1,
+        "Status":  4,
         "StartType":  "Auto",
         "Description":  "Manages audio for Windows-based programs.  If this service is stopped, audio devices and effects will not function properly.  If this service is disabled, any services that explicitly depend on it will fail to start"
     },
