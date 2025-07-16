@@ -1109,7 +1109,7 @@
         "Name":  "SstpSvc",
         "DisplayName":  "Secure Socket Tunneling Protocol Service",
         "Status":  1,
-        "StartType":  "Manual",
+        "StartType":  "Auto",
         "Description":  "Provides support for the Secure Socket Tunneling Protocol (SSTP) to connect to remote computers using VPN. If this service is disabled, users will not be able to use SSTP to access remote servers."
     },
     {
