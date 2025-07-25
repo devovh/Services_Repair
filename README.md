@@ -11,5 +11,11 @@ file - Confirm the operation.
 3.As Administrator, run the file named service-repair.ps1 from 
 the Win10, Win11, WinServ2022 or WinServ2025 folder.
 
+# Support Version:
+- Windows 10 - Win10
+- Windows 11 - Win11
+- Windows Server 2022 - WinServ2022
+- Windows Server 2025 - WinServ2025
+
 4.Restart Computer - Done.
 ```
