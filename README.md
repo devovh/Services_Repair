@@ -1,5 +1,5 @@
 # Services_Repair
-Restore Services Windows Server 2022 and Windows Server 2025
+Restore Services Windows 10, Windows 11, Windows Server 2022 and Windows Server 2025
 
 ```bash
 1.Add an entry to the registry regarding the right-click context menu, 
@@ -9,7 +9,7 @@ file - Confirm the operation.
 2.Run the file as Administrator from the Tools folder named signed.ps1.
 
 3.As Administrator, run the file named service-repair.ps1 from 
-the WinServ2022 or WinServ2025 folder.
+the Win10, Win11, WinServ2022 or WinServ2025 folder.
 
 4.Restart Computer - Done.
 ```
